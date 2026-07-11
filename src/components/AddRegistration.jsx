@@ -1,8 +1,10 @@
 import React from 'react'
+import NavigationBar from './NavigationBar'
 
 const AddRegistration = () => {
   return (
     <div>
+        <NavigationBar/>
 
 <div className="container">
     <div className="row">
